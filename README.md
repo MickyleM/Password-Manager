@@ -52,4 +52,4 @@ $ npm run dev
 
 <h1>Please Note:</h1>
 
-<p>This application is only meant for development purposes and is not intended for actual password storage.</p>
+<p>This application is not intended for actual password storage.</p>
